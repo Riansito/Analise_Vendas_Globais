@@ -1,0 +1,6 @@
+,index,sale_date,year,month,customer_age,customer_gender,country,state,product_category,sub_category,quantity,unit_cost,unit_price,cost,revenue
+0,0,2016-02-19,2016,February,29,F,United States,Washington,Accessories,Tires and Tubes,1,80.0,109.0,80.0,109.0
+1,1,2016-02-20,2016,February,29,F,United States,Washington,Clothing,Gloves,2,24.5,28.5,49.0,57.0
+2,2,2016-02-27,2016,February,29,F,United States,Washington,Accessories,Tires and Tubes,3,3.67,5.0,11.0,15.0
+3,3,2016-03-12,2016,March,29,F,United States,Washington,Accessories,Tires and Tubes,2,87.5,116.5,175.0,233.0
+4,4,2016-03-12,2016,March,29,F,United States,Washington,Accessories,Tires and Tubes,3,35.0,41.67,105.0,125.0
