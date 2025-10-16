@@ -60,14 +60,16 @@ A base de dados foi  analisada com **SQL** e **Power BI**, resultando em descobe
 
 **Recomendação:**
 - Ajustar preços de **bikes** para maior rentabilidade.  
-- Promover produtos de **alta margem e baixo volume** (ex: *Bike Racks, Gloves, Fenders*) para maximizar lucro sem depender do volume.
 
 ---
 
 ### 🔹 c) Produtos com Baixo Volume e Alta Margem
 
-- Esses produtos são **oportunidades de expansão**, especialmente em categorias premium ou acessórios de alto valor agregado.  
-- Estratégia: aumentar visibilidade e investimento em marketing para ampliar vendas desses itens.
+Os produtos que apresentam **baixo volume de vendas, mas alta margem de lucro**, como **Bike Racks, Fenders e Gloves**, representam **excelentes oportunidades de expansão**.
+Apesar do volume limitado, esses itens geram **retorno financeiro proporcionalmente elevado**, o que indica um **potencial de rentabilidade ainda não explorado**.
+
+**Recomendação estratégica:**
+Aumentar a **visibilidade e o investimento em marketing direcionado** para esses produtos, com foco em canais digitais e campanhas segmentadas. Além disso, avaliar **parcerias ou promoções cruzadas** com itens de maior giro pode impulsionar as vendas sem comprometer a margem.
 
 ---
 
