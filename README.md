@@ -60,11 +60,25 @@ Essas ferramentas juntas permitiram **análises dinâmicas e segmentadas**, com 
 
 O dashboard (em construção) será dividido em **três áreas principais**, cada uma representando uma dimensão estratégica da empresa:
 
-1. **📦 Produtos** — Análises de faturamento, custo, lucro e margem por categoria, subcategoria e produto.
-2. **👥 Clientes** — Perfil de consumo por faixa etária e gênero, ticket médio e categorias mais compradas.
+1. **🎯 Geral** - Análises de todos os indicadores como, volume de vendas, receita, lucro e etc por anos e meses.
+2. **📦 Produtos** — Análises de faturamento, custo, lucro e margem por categoria, subcategoria e produto.
 3. **🌎 Regional** — Comparativo de desempenho entre países, estados e regiões, com ranking de lucratividade e mapa interativo.
 
 O objetivo do dashboard será **conectar a análise técnica em SQL a uma visualização executiva e intuitiva**, possibilitando que qualquer gestor identifique oportunidades de melhoria com clareza.
+
+_Imagens do Dashboard(Visão Geral, Produtos, Regiao)_
+
+
+<p align="center">
+  <img src="Imagens/Visao_Geral.png" alt="Visão Geral" width="90%">
+</p>
+<p align="center">
+  <img src="Imagens/Produtos.png" alt="Produtos" width="45%">
+  <img src="Imagens/Regiao.png" alt="Regiao" width="45%">
+</p>
+
+
+Aqui está o link do Dashboard para poder mexer: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmEzNTFlYzUtZjU2Ny00MGE0LThhNTYtNGM4NjcyMjAyODNmIiwidCI6IjlkYmYzMjZlLTIxODUtNGM3OC1iY2NhLTBmNTdmOTc4ZjNkYSJ9)
 
 ---
 

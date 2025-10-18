@@ -55,7 +55,7 @@ A base de dados foi  analisada com **SQL** e **Power BI**, resultando em descobe
 
 ### 🔹 b) Produtos com Alto Volume e Baixa Margem
 
-- **Bikes:** alto volume, baixa lucratividade → revisar precificação e custos.  
+- **Bikes:** alto volume, baixa lucratividade → revisar precificação e custos(Principalmente nos Estados Unidos onde tiveram as maiores pertes de ucros negativos nos produtos de bikes) 
 - **Acessórios e Roupas:** alguns itens possuem **alto retorno unitário** com volume moderado.  
 
 **Recomendação:**
