@@ -67,15 +67,14 @@ O dashboard (em construção) será dividido em **três áreas principais**, cad
 O objetivo do dashboard será **conectar a análise técnica em SQL a uma visualização executiva e intuitiva**, possibilitando que qualquer gestor identifique oportunidades de melhoria com clareza.
 
 _Imagens do Dashboard(Visão Geral, Produtos, Regiao)_
-
-
 <p align="center">
-  <img src="Imagens/Visao_Geral.png" alt="Visão Geral" width="90%">
+  <img width="90%" alt="Visao_Geral" src="https://github.com/user-attachments/assets/bf49b5c1-df0e-44fd-9ba5-94531f748796" />
 </p>
 <p align="center">
-  <img src="Imagens/Produtos.png" alt="Produtos" width="45%">
-  <img src="Imagens/Regiao.png" alt="Regiao" width="45%">
+  <img width="45%" alt="Produtos" src="https://github.com/user-attachments/assets/b250a96b-3a4a-4e41-af52-594b12a930bd" />
+  <img width="45%"  alt="Regiao" src="https://github.com/user-attachments/assets/91e35026-41d4-4210-b02b-13eda1cc7507" />
 </p>
+
 
 
 Aqui está o link do Dashboard para poder mexer: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmEzNTFlYzUtZjU2Ny00MGE0LThhNTYtNGM4NjcyMjAyODNmIiwidCI6IjlkYmYzMjZlLTIxODUtNGM3OC1iY2NhLTBmNTdmOTc4ZjNkYSJ9)
