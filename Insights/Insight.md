@@ -55,7 +55,7 @@ A base de dados foi  analisada com **SQL** e **Power BI**, resultando em descobe
 
 ### 🔹 b) Produtos com Alto Volume e Baixa Margem
 
-- **Bikes:** alto volume, baixa lucratividade → revisar precificação e custos(Principalmente nos Estados Unidos onde tiveram as maiores pertes de ucros negativos nos produtos de bikes) 
+- **Bikes:** alto volume, baixa lucratividade → revisar precificação e custos(Principalmente nos Estados Unidos onde tiveram as maiores pertes de lucros negativos nos produtos de bikes) 
 - **Acessórios e Roupas:** alguns itens possuem **alto retorno unitário** com volume moderado.  
 
 **Recomendação:**
@@ -171,4 +171,14 @@ As principais oportunidades incluem:
 - **Aproveitar a força dos acessórios** como categoria âncora para campanhas.
 
 ---
+## 📈 **Retorno Esperado com as Ações Implementadas**
 
+Com a aplicação dessas estratégias, espera-se:
+
+* **Aumento da margem líquida geral** para níveis entre **12% e 14%**, impulsionado pela reestruturação de preços das Bikes e redução de custos logísticos;
+* **Crescimento sustentável de receita em até 20%** no médio prazo, com destaque para o mercado **alemão**, que tende a absorver produtos premium com maior rentabilidade;
+* **Redução de perdas operacionais nos EUA** e fortalecimento da presença nos estados mais lucrativos;
+* **Maior fidelização do público adulto**, elevando o ticket médio por cliente e a taxa de recompra;
+* **Equilíbrio no portfólio de produtos**, maximizando o retorno sobre itens de alto valor agregado e reduzindo a dependência de categorias de baixa margem.
+
+Em síntese, as mudanças propostas têm como objetivo **aumentar a eficiência operacional, melhorar margens e consolidar o crescimento global da empresa de forma sustentável**.
