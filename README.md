@@ -75,9 +75,34 @@ _Imagens do Dashboard(Visão Geral, Produtos, Regiao)_
   <img width="45%"  alt="Regiao" src="https://github.com/user-attachments/assets/91e35026-41d4-4210-b02b-13eda1cc7507" />
 </p>
 
-
-
 Aqui está o link do Dashboard para poder mexer: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmEzNTFlYzUtZjU2Ny00MGE0LThhNTYtNGM4NjcyMjAyODNmIiwidCI6IjlkYmYzMjZlLTIxODUtNGM3OC1iY2NhLTBmNTdmOTc4ZjNkYSJ9)
+
+---
+## 📝 Resumo das Análises e Estratégias
+
+A análise de **SQL e Power BI** identificou os principais fatores de desempenho da empresa:
+
+* **Produtos de alto volume e baixa margem** (como Bikes) requerem ajustes de preço e otimização de custos;
+* **Produtos de baixo volume e alta margem** (Bike Racks, Fenders, Gloves) apresentam potencial de expansão;
+* **Mercados de alto desempenho** (Alemanha) devem ser priorizados, enquanto regiões deficitárias (certos estados dos EUA e França) precisam de ajustes operacionais;
+* **Clientes adultos** são o principal público, com forte preferência por acessórios.
+
+**Estratégias implementadas:**
+
+* Ajuste de preços das Bikes para aumentar margem;
+* Promoção de produtos de alta margem (Bike Racks, Fenders, Gloves);
+* Reforço de vendas em mercados lucrativos (Alemanha) e revisão de operações nos EUA e França;
+* Campanhas segmentadas para clientes adultos;
+* Monitoramento contínuo de vendas e margens por produto e região.
+
+**Retorno esperado:**
+
+* Aumento da margem líquida e lucro por produto: **+5–8%**;
+* Crescimento da receita em mercados estratégicos: **+10–15%**;
+* Redução de perdas em regiões deficitárias: **-20–30%**;
+* Maior engajamento e fidelização do público-alvo, elevando o ticket médio: **+7–12%**.
+
+Para mais detalhes das análises vá na pasta *Insights*, lá você terá a análise detalhada e com todas as descobertas, estratégias e resultados.
 
 ---
 
@@ -89,6 +114,7 @@ Aqui está o link do Dashboard para poder mexer: [Dashboard](https://app.powerbi
 | **Power BI**   | Visualização interativa dos dados e apresentação dos insights estratégicos.                |
 
 ---
+
 
 ## 🚀 Conclusão
 
