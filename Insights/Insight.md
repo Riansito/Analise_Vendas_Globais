@@ -229,6 +229,12 @@ Categorias com **margens acima da média** e bom equilíbrio entre volume e rent
 
 ### 🔹 c) Categorias Preferidas por Idade/Gênero
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3707d833-2a12-471e-9232-fdc6b846f697" height="300" width = "45%"/>
+  <img src="https://github.com/user-attachments/assets/316f71be-6350-47e3-bf32-730a44d33849" height="300" width = "45%"/>
+</p>
+
+
 - **Acessórios** dominam as vendas em todas as faixas etárias e gêneros.  
 - Essa categoria é o **núcleo do portfólio**, representando forte engajamento e preferência dos clientes e auta margem de lucros.
 
