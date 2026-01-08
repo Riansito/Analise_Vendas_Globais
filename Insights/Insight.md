@@ -42,34 +42,98 @@ A base de dados foi  analisada com **SQL** e **Power BI**, resultando em descobe
 
 ### 🔹 a) Categorias Mais Lucrativas
 
-**Bikes**
-- Principal fonte de **faturamento**, mas com **baixa margem de lucro**.  
-- Possíveis causas: custos altos, precificação inadequada ou promoções agressivas.  
-- **Ação sugerida:** revisar preços, renegociar fornecedores e otimizar logística.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2c1cbf18-4b8a-45c4-94cd-57c8e392a874" height="300"/>
+  <img src="https://github.com/user-attachments/assets/a2210c68-2577-40aa-9416-6559f40dde41" height="300"/>
+</p>
 
-**Acessórios e Roupas**
-- Mantêm equilíbrio entre faturamento e margem.  
-- Representam **categorias estáveis e rentáveis**, ideais para campanhas promocionais.
+## 🏍️ Bikes
+
+**Diagnóstico:**
+Principal motor de faturamento, porém com **margem significativamente abaixo da média**, o que pressiona a rentabilidade geral.
+
+**Possíveis causas:**
+
+* Estrutura de custos elevada (fornecedores, logística, pós-venda)
+* Estratégia de preços pouco eficiente
+* Uso excessivo de descontos e promoções
+
+**Recomendações estratégicas:**
+
+* Revisar a **estratégia de precificação**, avaliando elasticidade de demanda
+* Renegociar contratos com fornecedores e transportadoras
+* Avaliar o mix de produtos, priorizando modelos com melhor margem
+* Reduzir dependência de promoções e focar em valor percebido
+
+## 🎒 Acessórios e 👕 Roupas
+
+**Diagnóstico:**
+Categorias com **margens acima da média** e bom equilíbrio entre volume e rentabilidade.
+
+**Pontos fortes:**
+
+* Maior eficiência operacional
+* Menor custo unitário e maior flexibilidade de preço
+* Potencial de venda cruzada
+
+**Recomendações estratégicas:**
+
+* Priorizar investimentos em **marketing e campanhas promocionais**
+* Incentivar **cross-sell e upsell** junto às vendas de Bikes
+* Expandir portfólio e testar novos produtos de maior margem
+* Usar essas categorias como alavanca para aumentar o lucro total
+---
+
+## 🔹 b) Produtos com **Alto Volume** e **Baixa Margem**
+
+### 📊 Evidência — Volume de Vendas por Produto
+
+<img width="1025" height="310" alt="image" src="https://github.com/user-attachments/assets/24632778-950c-441b-8aa4-6fde0ed30747" />
+
+### 📊 Evidência — Margem de Lucro por Produto
+
+<img width="1025" height="310" alt="image" src="https://github.com/user-attachments/assets/cfa8a2e7-a83b-4422-821d-9fa5e3d40e2c" />
+
+### 🧠 Análise Integrada
+
+* As **Bikes** concentram o **maior volume de vendas**, conforme evidenciado no gráfico de volume.
+* No entanto, ao analisar a **margem de lucro**, observa-se que essa categoria apresenta **desempenho significativamente inferior**, impactando negativamente o resultado financeiro.
+* Esse problema é **mais acentuado no mercado dos Estados Unidos**, onde foram registradas as **maiores perdas de lucro** associadas aos produtos de Bikes.
+* Em contrapartida, **Acessórios e Roupas** demonstram **melhor eficiência financeira**, combinando volume moderado com margens mais saudáveis.
+
+### 🎯 Recomendação Estratégica
+
+* Revisar a **estratégia de precificação das Bikes**, priorizando regiões com menor rentabilidade.
+* Avaliar e otimizar a **estrutura de custos** (produção, logística e políticas de desconto).
+* Reduzir a dependência de promoções agressivas e fortalecer o **valor percebido do produto**.
 
 ---
 
-### 🔹 b) Produtos com Alto Volume e Baixa Margem
+## 🔹 c) Produtos com **Baixo Volume** e **Alta Margem**
 
-- **Bikes:** alto volume, baixa lucratividade → revisar precificação e custos(Principalmente nos Estados Unidos onde tiveram as maiores pertes de lucros negativos nos produtos de bikes) 
-- **Acessórios e Roupas:** alguns itens possuem **alto retorno unitário** com volume moderado.  
+### 📊 Evidência — Margem de Lucro por Produto
 
-**Recomendação:**
-- Ajustar preços de **bikes** para maior rentabilidade.  
+<img width="1025" height="310" alt="image" src="https://github.com/user-attachments/assets/cfa8a2e7-a83b-4422-821d-9fa5e3d40e2c" />
+
+### 🧠 Análise Integrada
+
+* Produtos como **Bike Racks, Fenders e Gloves** apresentam **margens de lucro elevadas**, apesar do **baixo volume de vendas**.
+* Essa combinação indica **alta eficiência financeira**, mas também revela **baixa exposição comercial**.
+* O retorno proporcionalmente elevado sugere um **potencial de crescimento ainda não explorado**, especialmente se houver aumento de escala.
+
+### 🎯 Recomendação Estratégica
+
+* Ampliar a **visibilidade desses produtos** por meio de campanhas de marketing direcionadas.
+* Investir em **canais digitais e ações segmentadas**, focadas em públicos com maior propensão de compra.
+* Implementar estratégias de **cross-sell e bundles** com produtos de maior giro (ex.: Bikes), elevando o ticket médio sem comprometer a margem.
 
 ---
 
-### 🔹 c) Produtos com Baixo Volume e Alta Margem
+## 📌 Insight Executivo Consolidado
 
-Os produtos que apresentam **baixo volume de vendas, mas alta margem de lucro**, como **Bike Racks, Fenders e Gloves**, representam **excelentes oportunidades de expansão**.
-Apesar do volume limitado, esses itens geram **retorno financeiro proporcionalmente elevado**, o que indica um **potencial de rentabilidade ainda não explorado**.
+> **Volume sustenta faturamento, mas margem sustenta o lucro.**
+> O crescimento sustentável exige **correção de rentabilidade nos produtos de alto volume** e **escala comercial nos produtos de alta margem**.
 
-**Recomendação estratégica:**
-Aumentar a **visibilidade e o investimento em marketing direcionado** para esses produtos, com foco em canais digitais e campanhas segmentadas. Além disso, avaliar **parcerias ou promoções cruzadas** com itens de maior giro pode impulsionar as vendas sem comprometer a margem.
 
 ---
 
@@ -143,20 +207,30 @@ Aumentar a **visibilidade e o investimento em marketing direcionado** para esses
 ## 👥 4. Perfil de Clientes
 
 ### 🔹 a) Faixa Etária com Maior Volume de Compras
+<p align  = "center">
+  <img width="617" height="312" alt="image" src="https://github.com/user-attachments/assets/b487c722-0a09-4c57-951f-deb6159c67f6" />
+</p>
+
 - **Adultos** são o principal público consumidor.  
 - Oportunidade para campanhas segmentadas e programas de fidelização direcionados a esse grupo.
 
 ---
 
 ### 🔹 b) Diferenças entre Gêneros
+
+<p align  = "center">
+  <img width="649" height="281" alt="image" src="https://github.com/user-attachments/assets/da51d004-d665-44da-a9a5-243277af96c8" />
+</p>
+
 - Não há diferença significativa entre homens e mulheres no volume de compras.  
 - Estratégia neutra de marketing pode ser mantida.
 
 ---
 
 ### 🔹 c) Categorias Preferidas por Idade/Gênero
+
 - **Acessórios** dominam as vendas em todas as faixas etárias e gêneros.  
-- Essa categoria é o **núcleo do portfólio**, representando forte engajamento e preferência dos clientes.
+- Essa categoria é o **núcleo do portfólio**, representando forte engajamento e preferência dos clientes e auta margem de lucros.
 
 ---
 
